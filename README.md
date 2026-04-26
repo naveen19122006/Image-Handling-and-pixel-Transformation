@@ -275,3 +275,7 @@ plt.axis("off")
 <img width="493" height="409" alt="0695224b-d57b-4072-ab31-2eb97a1cc939" src="https://github.com/user-attachments/assets/2434b9fb-d7ff-4a37-8e6a-d78cc97a2e67" />
 
 <img width="493" height="409" alt="bbef86ae-bbd7-4338-9c5f-dc7fc75979fe" src="https://github.com/user-attachments/assets/e39d63f4-cb9e-43e1-a199-650f45379065" />
+
+## Result
+
+The experiment on Image Handling and Pixel Transformations using OpenCV was successfully completed.
