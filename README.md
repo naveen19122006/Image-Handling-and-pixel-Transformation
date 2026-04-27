@@ -1,4 +1,4 @@
-# Image-Handling-and-pixel-Transformation
+# EX.02 Image-Handling-and-pixel-Transformation
 
 ## Aim
 
